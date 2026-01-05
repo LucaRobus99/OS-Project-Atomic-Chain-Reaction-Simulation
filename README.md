@@ -7,8 +7,9 @@
 * **Course:** Operating Systems (*Sistemi Operativi*)
 * **University:** Università degli Studi di Torino (UniTo)
 * **Degree:** Bachelor's Degree in Computer Science
-* **Authors:** * Davide Robustelli
-* Luca Robustelli
+* **Authors:**
+> Davide Robustelli
+> Luca Robustelli
 
 
 
