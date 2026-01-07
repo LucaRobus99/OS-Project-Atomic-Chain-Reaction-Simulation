@@ -1,16 +1,6 @@
 # ☢️ Atomic Chain Reaction Simulation
 
-### Operating Systems Project | University of Turin
 
-## 🏛 Course Information
-
-* **Course:** Operating Systems (*Sistemi Operativi*)
-* **University:** Università degli Studi di Torino (UniTo)
-* **Degree:** Bachelor's Degree in Computer Science
-
-
-
----
 
 ## 📖 Project Overview
 
