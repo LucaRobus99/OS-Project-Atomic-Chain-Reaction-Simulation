@@ -119,6 +119,17 @@ This project covers the fundamental pillars of **Concurrent Computing**:
 
 ---
 
+Perfetto! Ecco la sezione **Contributors** aggiornata con il link diretto al profilo GitHub di Davide Robustelli. Puoi inserirla nel tuo file `README.md` o nel file `CONTRIBUTING.md`.
+
+---
+
+## 👥 Contributors (Collegue)
+
+* **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
+
+---
+
+
 ## 📜 License
 
 This project was developed for academic purposes as part of the Operating Systems course at the University of Turin. All rights reserved by the authors.
