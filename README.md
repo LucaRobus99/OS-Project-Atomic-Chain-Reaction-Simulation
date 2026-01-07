@@ -126,7 +126,7 @@ Perfetto! Ecco la sezione **Contributors** aggiornata con il link diretto al pro
 ## 👥 Contributors (Collegue)
 
 * **Davide Robustelli** — [@xDavikx](https://github.com/xDavikx)
-
+* **Luca Robustelli** (Me)
 ---
 
 
