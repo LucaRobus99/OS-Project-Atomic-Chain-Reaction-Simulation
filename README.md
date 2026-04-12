@@ -119,9 +119,6 @@ This project covers the fundamental pillars of **Concurrent Computing**:
 
 ---
 
-Perfetto! Ecco la sezione **Contributors** aggiornata con il link diretto al profilo GitHub di Davide Robustelli. Puoi inserirla nel tuo file `README.md` o nel file `CONTRIBUTING.md`.
-
----
 
 ## 👥 Contributors
 
