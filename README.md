@@ -19,7 +19,7 @@ The simulation models the interaction between atoms, activators, and power suppl
 * **Shared Memory:** Used for real-time status updates and global system state.
 * **Semaphores:** Implemented to prevent race conditions during atom interactions.
 * **Message Queues:** Used for asynchronous communication between the Master and child processes.
-* **POSIX Signals:** Robust handling of system-wide events (termination, interrupts, state changes).
+
 
 
 
